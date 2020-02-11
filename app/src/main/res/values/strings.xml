@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloWorldGitVersion</string>
+    <string name="textvalue1">Text value 1</string>
+    <string name="textvalue2">Text value 2</string>
 </resources>
